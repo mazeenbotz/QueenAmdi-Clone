@@ -97,7 +97,7 @@ QR Code generator and full instructions available there.
 <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
+[![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fhansakabro.tk%2F&template=https%3A%2F%2Fgithub.com%2Fmazeenbotz%2FQueenAmdi-Clone)
 
 ## Queen Amdi Team
 
